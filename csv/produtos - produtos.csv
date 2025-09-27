@@ -1,0 +1,22 @@
+id,nome,preco,estoque,id_marca
+1,iPhone 15 Pro Max,9999,160,1
+2,iPhone 15 Pro,8599,200,1
+3,iPhone 15,7299,300,1
+4,iPhone SE,4599,100,1
+5,Samsung Galaxy S23 Ultra,7599,180,2
+6,Samsung Galaxy S23,5999,250,2
+7,Samsung Galaxy A54,2199,400,2
+8,Samsung Galaxy Z Fold 5,12999,50,2
+9,Samsung Galaxy Z Flip 5,7999,80,2
+10,Xiaomi 13 Pro,6599,120,3
+11,Xiaomi 13,5899,150,3
+12,Xiaomi Redmi Note 12 Pro,2299,350,3
+13,Xiaomi Poco F5 Pro,3999,200,3
+14,Xiaomi Redmi 12,1299,500,3
+15,Huawei P60 Pro,8299,90,4
+16,Huawei Nova 11 Pro,4999,110,4
+17,Huawei Mate X3,14999,40,4
+18,Huawei Pura 70 Ultra,11999,60,4
+19,Samsung Galaxy S24,6899,220,2
+20,Xiaomi 14 Ultra,9599,75,3
+22,Xiaomi 10 Ultra,9599,0,3
